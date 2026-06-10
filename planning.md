@@ -22,17 +22,16 @@ The domain that I choose is about technology career information. The goal of thi
 
 | # | Source                    | Description                                                                                            | URL or location |
 |---|---------------------------|--------------------------------------------------------------------------------------------------------|-----------------|
-| 1 | software_engineering.txt  | Information about software engineering responsibilities, skills, salary, and job outlook.              |
-| 2 | data_science.txt          | Information about data science careers, skills, tools, and job growth.                                 |
-| 3 | machine_learning.txt      | Overview of machine learning engineering roles, responsibilities, and required skills.                 |
-| 4 | cybersecurity.txt         | Information about cybersecurity careers, certifications, and security responsibilities.                |
-| 5 | cloud_engineering.txt     | Information about cloud engineering, cloud platforms, certifications, and career paths.                |
-| 6 | ai_engineer.txt           | Information about artificial intelligence engineering roles, skills, and technologies.                 |
-| 7 | devops.txt                | Information about DevOps practices, automation, CI/CD, and infrastructure management.                  |
-| 8 | ux_design.txt             | Information about UX design responsibilities, user research, and design processes.                     |
-| 9 | product_management.txt    | Information about product management responsibilities, skills, and career growth.                      |
-| 10| tech_career_comparison.txt| Comparisons between technology careers including software engineering, data science, and related roles.|
-
+| 1 | software_engineering.txt  | Information about software engineering responsibilities, skills, salary, and job outlook.              | https://www.coursera.org/articles/software-engineer 
+| 2 | data_science.txt          | Information about data science careers, skills, tools, and job growth.                                 | https://www.coursera.org/articles/what-is-a-data-scientist
+| 3 | machine_learning.txt      | Overview of machine learning engineering roles, responsibilities, and required skills.                 | https://www.ibm.com/think/topics/machine-learning 
+| 4 | cybersecurity.txt         | Information about cybersecurity careers, certifications, and security responsibilities.                | https://www.ibm.com/think/topics/cybersecurity 
+| 5 | cloud_engineering.txt     | Information about cloud engineering, cloud platforms, certifications, and career paths.                | https://www.coursera.org/articles/what-is-a-cloud-engineer 
+| 6 | ai_engineer.txt           | Information about artificial intelligence engineering roles, skills, and technologies.                 | https://www.coursera.org/articles/ai-engineer 
+| 7 | devops.txt                | Information about DevOps practices, automation, CI/CD, and infrastructure management.                  | https://learn.microsoft.com/en-us/training/career-paths/devops-engineer 
+| 8 | ux_design.txt             | Information about UX design responsibilities, user research, and design processes.                     | https://grow.google/intl/en_in/ux-design-course/?srsltid=AfmBOopk09Z4OCfJcUZ5aJYaRXDN6PPYxXBGN9-2WmAR1FcwFqvse_8j 
+| 9 | product_management.txt    | Information about product management responsibilities, skills, and career growth.                      | https://www.ibm.com/think/topics/product-management 
+| 10| tech_career_comparison.txt| Comparisons between technology careers including software engineering, data science, and related roles.| https://ixdf.org/literature/article/what-tech-career-is-right-for-me 
 ---
 
 ## Chunking Strategy
