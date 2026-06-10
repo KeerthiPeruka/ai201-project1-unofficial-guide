@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+The domain that I choose is about technology career information. The goal of this project is to help users learn about the different technology careers such as software engineering, data science, machine learning, cybersecurity, cloud engineering, AI engineering, UX design, DevOps, and Product Management. Although there is information about different careers online, it is available across many websites which makes it difficult to compare roles within tech industry, required skills, job outlook, and career paths all in one place.  
+
 ---
 
 ## Documents
@@ -18,18 +20,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source                    | Description                                                                                            | URL or location |
+|---|---------------------------|--------------------------------------------------------------------------------------------------------|-----------------|
+| 1 | software_engineering.txt  | Information about software engineering responsibilities, skills, salary, and job outlook.              |
+| 2 | data_science.txt          | Information about data science careers, skills, tools, and job growth.                                 |
+| 3 | machine_learning.txt      | Overview of machine learning engineering roles, responsibilities, and required skills.                 |
+| 4 | cybersecurity.txt         | Information about cybersecurity careers, certifications, and security responsibilities.                |
+| 5 | cloud_engineering.txt     | Information about cloud engineering, cloud platforms, certifications, and career paths.                |
+| 6 | ai_engineer.txt           | Information about artificial intelligence engineering roles, skills, and technologies.                 |
+| 7 | devops.txt                | Information about DevOps practices, automation, CI/CD, and infrastructure management.                  |
+| 8 | ux_design.txt             | Information about UX design responsibilities, user research, and design processes.                     |
+| 9 | product_management.txt    | Information about product management responsibilities, skills, and career growth.                      |
+| 10| tech_career_comparison.txt| Comparisons between technology careers including software engineering, data science, and related roles.|
 
 ---
 
@@ -40,11 +42,11 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size: 500 characters**
 
-**Overlap:**
+**Overlap: 100 characters **
 
-**Reasoning:**
+**Reasoning: The documents contain career information organized into multiple sections and paragraphs. Using 500 character chunks helps keep related information together, while a 100 character overlap helps maintain context between chunks. This approach produced about 249 chunks and improved retrieval accuracy. **
 
 ---
 
@@ -56,11 +58,11 @@
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model: all_MiniLM-L6-v2 from sentence transformers**
 
-**Top-k:**
+**Top-k: 4 chunks per query**
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection: If this system were used in production, I would compare models based on retrieval accuracy, speed of the response, and context length. I would choose the model that understands the user prompts throiugh the questions well and returns accurate results especially for comparison questions.**
 
 ---
 
@@ -73,11 +75,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What programming languages and technical skills are commonly required for software engineers?| Languages such as Python, Java, C, C++, or Scala, along with databases, cloud computing, version control, testing, and debugging skills.|
+| 2 | What everyday tasks does a data scientist perform?| Finding patterns in data, building models, forecasting outcomes, using machine learning, and communicating insights.|
+| 3 | What skills are needed to become an AI engineer?| Programming, statistics, machine learning, big data technologies, and AI frameworks such as TensorFlow and PyTorch.|
+| 4 | How do the responsibilities of a software engineer differ from those of a data scientist?| Software engineers focus on building and maintaining software systems, while data scientists focus on analyzing data, building models, and generating insights. |
+| 5 | How does UX design differ from product management?| UX design focuses on improving the user experience through research and design, while product management focuses on product strategy, development, and business goals.|
 
 ---
 
@@ -87,9 +89,9 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. The retrieval system may return chunks from careers that are related instead of the most relevant documents since some career paths within tech industry require similar skills and technological tools and platforms.
 
-2.
+2. The questions asked about comparison may require information from multiple documents. If all of the relevant chunks are not retrieved, the generated response may be incomplete or not fully accurate. 
 
 ---
 
@@ -100,6 +102,10 @@
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+
+Career Information files (.txt) -> Load Documents -> Cleaning (to remove whitespaces) -> Chunking (500 character chunks with 100 charcters of overlap) -> Embedding + Vectore Storage (embeddings from all-MiniLM-L6-v2 stored in ChromaDB) -> Retrieval (retrieve top 4 relevant chunks per question asked) -> Generation (answer for the question prompt) -> Interface (Gradio web UI for displaying answer and sources)
+           
 
 ---
 
@@ -115,8 +121,8 @@
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking: I will give ChatGPT my Chunking strategy for being able to implement chunk_text using 500 character chunk size and 100 character overlap. I will verfiy the output through generated chunks**
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval: I will give chatGPT my retrieval approach for implementing the all-MiniLM-L6-v2 and retrieving top chunks with the ChromaDB. I will further implement these and verify outputs through testing sample queries.**
 
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface: I will give ChatGPT my Architectural diagram for connecting to Gradio interface. I will further test responses through the UI as well.**

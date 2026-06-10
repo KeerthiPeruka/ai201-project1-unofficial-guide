@@ -1,0 +1,4 @@
+What is a DevOps engineer?
+
+A DevOps engineer is a developer or infrastructure administrator who also has subject matter expertise in working with people, processes, and products to enable continuous delivery of value in organizations. The DevOps engineers assists in designing and implementing strategies for collaboration, code, infrastructure, source control, security, compliance, continuous integration, testing, delivery, monitoring, and feedback.
+

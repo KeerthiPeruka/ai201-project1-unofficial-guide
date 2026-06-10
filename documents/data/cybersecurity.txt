@@ -1,0 +1,31 @@
+What is cybersecurity?
+
+What is cybersecurity?
+
+Cybersecurity is the practice of protecting people, systems and data from cyberattacks by using various technologies, processes and policies. 
+ 
+At the enterprise level, cybersecurity is key to overall risk management strategy, and specifically, cyber risk management. Common cybersecurity threats include ransomware and other malware, phishing scams, data theft and more recently, attacks powered by artificial intelligence (AI).
+
+As cyberthreats grow in sophistication and frequency, organizations are increasing their investments in prevention and mitigation. The International Data Corporation (IDC) projects that security spending will reach USD 377 billion by 2028.
+
+This evolving threat landscape has also fueled growth in the cybersecurity job market. The US Bureau of Labor Statistics projects that “employment of information security analysts is projected to grow 32% from 2022–2032, faster than the average for all occupations.
+
+Why is cybersecurity important?
+
+Cyberattacks and cybercrime can disrupt, damage and destroy businesses, communities and lives. Security incidents can lead to identity theft, extortion and the loss of sensitive information, impacts that can significantly affect businesses and the economy. By one estimate, cybercrime will cost the world economy USD 10.5 trillion per year by 2025.3
+
+But a more pertinent question might be: “Why is cybersecurity especially important right now?”
+
+Today, cybercriminals are using new technologies to their advantage. For instance, businesses are embracing cloud computing for efficiency and innovation. But bad actors view this advancement as an expanding attack surface ripe for exploitation.
+
+Bad actors are also leveraging the dark web. According to the IBM X-Force® 2025 Threat Intelligence Index, sophisticated threat actors, including nation-states, are using the anonymity of the dark web to acquire new tools and resources.
+
+They are demonstrating never-before-seen levels of coordination, automation and prowess—elevating risk from data breaches to wide-scale disruption.
+
+The cost of cyberattacks is also growing. According to IBM’s latest Cost of a Data Breach Report:
+
+Average costs: The average cost of a data breach jumped to USD 4.88 million from USD 4.45 million in 2023, a 10% spike and the highest increase since the pandemic.
+
+Business losses: Business losses and post-breach response costs rose nearly 11% over the previous year.
+
+Regulatory fines: The number of organizations paying more than USD 50,000 in regulatory fines because of a data breach rose 22.7% over the previous year. The number of organizations paying more than USD 100,000 rose 19.5%.

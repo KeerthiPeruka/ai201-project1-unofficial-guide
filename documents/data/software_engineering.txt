@@ -1,0 +1,77 @@
+What Does a Software Engineer Do?
+
+Software engineers design and create computer systems and applications to solve real-world problems.
+
+Key takeaways
+Software engineers design, develop, test, and maintain software applications and computer systems, combining analytical thinking and problem-solving skills to create technology solutions across industries
+Software engineer careers offer strong job security and competitive salaries, with the Bureau of Labor Statistics projecting 22% job growth through 2032 as demand for digital solutions continues to expand
+Software engineers work on diverse projects from mobile applications and websites to enterprise systems and artificial intelligence, making this field ideal for those who enjoy continuous learning and technological innovation
+
+
+What is a software engineer?
+A software engineer is a computer science professional who builds and maintains software solutions. Software engineers tend to have an overview of software systems and work to create infrastructure and systems that other developers can use, or that can scale easily as business needs grow. 
+Will AI replace software engineers?
+
+AI will likely transform software engineering more than replace it. Routine coding tasks are already being automated, but the core of the job, such as system design, problem-solving, and translating complex requirements into working software, remains deeply human work. Engineers who adapt and learn to work alongside AI tools will be well-positioned, and strong fundamentals will matter more, not less, as the field evolves.
+
+What do software engineers do?
+Successful engineers know how to use the right programming languages, platforms, and architectures to develop everything from computer games to network control systems. In addition to building their own systems, software engineers also test, improve, and maintain software built by other engineers. 
+"I get excited about anything that involves solving problems, whether it be figuring out how to optimize a certain part of an existing application or entirely coming up with new applications to solve certain needs," says Murtadha Al-Tameemi, a software engineer at Meta. "Problems in general stimulate my brain and give me a great sense of satisfaction."
+In this role, your day-to-day tasks might include:
+Designing and maintaining software systems
+Evaluating and testing new software programs
+Optimizing software for speed and scalability
+Writing and testing code
+Consulting with clients, engineers, security specialists, and other stakeholders
+Presenting new features to stakeholders and internal customers
+
+Software engineer salary and job outlook
+The average annual salary for software engineers is $111,946. With bonuses, commissions, and additional pay, this amount could be closer to $147,112. As well as above-average pay, software engineers should enjoy a much faster-than-average employment growth rate over the coming decade. The US Bureau of Labor Statistics projects that software developer, quality assurance analyst, and tester jobs—a category that includes software engineer roles—will grow by 15 percent from 2024 to 2034
+
+How much do software engineers make?
+Working as a software engineer can be challenging and engaging, and it also tends to pay well. The annual median software engineer salary in 2023 was $130,160, according to the US Bureau of Labor Statistics (BLS). Jobs in software publishing tend to draw the biggest salaries. 
+
+Is software engineering a good career?
+If you enjoy solving problems and have strong analytical skills, a career as a software engineer can be both fun and challenging. As technology continues to evolve, job growth for software developers continues to be much faster than the national average for all occupations
+Choosing a career as a software engineer gives you opportunities to work in many different industries and fields, as nearly all businesses use software. Whether you enjoy finances, entertainment, sports, real estate, or some other industry, there’s a good chance there are jobs for software engineers. 
+It’s also a career that allows flexibility in where you work. You may be able to work from home for companies in other states or even other countries. The important thing is that you’re able to meet deadlines and deliver a project on time.
+
+Software engineer jobs
+Entry-level roles typically include quality assurance and test engineer and frontend or backend engineer, where the focus is on learning fundamentals and working within established codebases. From there, you can continue gaining certifications and experience to advance to roles like full stack engineer, IT project manager, or data engineer, which require more autonomy and cross-functional knowledge. Senior and advanced tracks tend to include DevOps engineer, site reliability engineer, and security engineer, which demand deep specialization and system-level thinking. These roles exist across virtually every industry including finance, health care, defense, e-commerce, and gaming, with some like embedded systems engineer being specific to hardware-driven sectors such as automotive or aerospace. As a software engineer, you have both flexibility and mobility to create the career experience that is most appealing to you. 
+
+What is founding software engineer?
+
+A founding engineer is one of the first technical hires at a startup, usually brought on before there's any real team in place. You're essentially building the product from the ground up, making architectural decisions that will shape everything that comes after, and jumping between frontend, backend, infrastructure, and sometimes even product decisions. It's a big role with a lot of ownership, which is why it typically comes with meaningful equity on top of salary. It suits engineers who thrive in ambiguity, can move quickly, and don't need a lot of structure around them to do their best work.
+
+How to become a software engineer 
+Getting a job as a software engineer typically involves building the right technical and workplace skills. Some jobs might also require a certain degree or certification to validate your skills. However, there are many ways to enhance your skill set.
+"Although I did have a formal education, taking online classes on how to build mobile apps, doing internships where I work on projects at a company, and trying to build my own side projects was the most helpful," says Laila Rizvi, a software engineer at Meta.
+You can take a closer look at the requirements for becoming a software engineer in the sections below.
+
+Software engineering skills
+As a software developer, you’ll be designing software to help solve problems that real people face. This requires a combination of technical know-how and solid communication skills. If you’re considering this as a career, here are some skills you should focus on building:
+Coding languages like Python, Java, C, C++, or Scala
+Object-oriented programming
+Database architecture
+Agile and Scrum project management
+Operating systems
+Cloud computing
+Version control
+Design testing and debugging
+Attention to detail
+
+Software engineering certifications
+By earning a certification, you can build new skills and validate those skills to potential employers. Some jobs might require a specific certification, so it’s a good idea to research some job listings of roles you’re interested in before preparing for a certification exam. Here are some common options:
+Certified Software Development Professional (CSDP)
+Certified Software Engineer
+C Certified Professional Programmer (CLP)
+C++ Certified Professional Programmer (CPP)
+AWS Certified Developer
+Microsoft Certified: Azure Fundamentals
+
+Do I need a degree to be a software engineer?
+
+A bachelor’s degree in computer science or a related degree program is a common entry-level requirement for software engineers. However, a degree isn’t the only path toward a development job. Some employers accept alternative credentials such as certifications and equivalent experience in lieu of a degree. Research job postings for positions you're interested in to determine whether or not a degree is essential for your career path.
+
+
+

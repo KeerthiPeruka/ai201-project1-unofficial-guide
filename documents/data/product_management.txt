@@ -1,0 +1,134 @@
+What is product management?
+
+Product management is a strategic practice that guides the product lifecycle through research, planning, development, product launch, support and optimization to build products that meet business goals and satisfy customer needs.
+Product management is both a position and a function implemented by product managers who emphasize user experience and the demands of the market. It is a function that requires a combination of business, management and technical experience. Unlike project managers, who set the day-to-day workflows for building a product, product managers prioritize the overall vision and strategy for a particular product.
+
+Product managers exist in all industries, overseeing products made through physical manufacturing and the development of software and apps.
+
+In building a product strategy, product managers collaborate on cross-functional teams that include business teams, analysts, UX designers, developers, marketers and sales teams. A product management strategy includes conducting market research, creating a product roadmap, coordinating development teams and other relevant stakeholders and incorporating customer feedback through product updates.
+
+Product management prioritizes the customer experience and positions positive user feedback as a key metric for a successful product.
+
+What does a product manager do?
+
+Product managers orchestrate and oversee the product development process and remain engaged throughout the product lifecycle, playing a key role in product lifecycle management. The scope and exact details of this process might vary from enterprise to enterprise and based on the complexity of the product. However, cross-team collaboration throughout the process—from ideation to release and optimization—is an important component in most scenarios.
+
+The main responsibilities of a product manager include conducting market research, developing a product vision, collaborating across teams on product development and optimizing products after they've launched.
+Conduct market research
+
+A detailed analysis of competitor data, customer surveys, focus groups and internal data from sales and marketing teams helps guide product development. Product managers stay up to date on current technological developments and business trends by reading white papers, reports, blogs and news articles from respected sources. New products and features are meant to fill holes in the market or to improve on what competitors are already doing—research into what is successful and what isn’t is a key part of making that possible.
+Develop product vision
+
+With ideas informed by product and market research, product managers develop a long-term vision for the product. Product managers must have the creativity to imagine how market conditions might develop and how a product will fit into the future of an enterprise. In developing a product vision, product managers also consider how a new product connects with existing products and services. They make sure that business offerings are consistent with the enterprise’s mission and objectives.
+Collaborate on product development
+
+Product managers work alongside developers to make sure that the product features align with business and customer needs. Product managers serve as a bridge between different departments including business teams, development teams and sales and marketing teams.
+
+Throughout the development process, they advocate for features that improve the customer experience and make sure that stakeholders are in alignment. Product managers are involved in both front-end and back-end product development, meaning they have input in both the technical aspects and in the product design and UX elements. Product managers help negotiate and balance several factors such as budget, available resources, release dates and stakeholder input throughout the development process.
+Optimize products post launch
+
+The product development process does not end after a product is launched, nor does the product manager’s involvement. When a product reaches the market, product managers have several responsibilities that help improve the product, its promotion and performance. Notably, product managers help gather and review user feedback and performance analytics to identify opportunities for optimization. They also work with dev teams to continue testing the product for bugs or defects that might cause outages or issues for users.
+
+These responsibilities factor into every step of product development. Another way to look at what a product manager does is to examine the general steps in the product development process.
+Think Keynotes
+ 
+ Win the enterprise AI race
+Win the enterprise AI race
+
+Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
+Get Started with watsonx Orchestrate® 
+Product development process
+
+The product development process varies by product and organization but most processes include the following steps:
+Idea generation
+
+This collaborative process involves product managers and business teams with a focus on developing new products, features and initiatives. Product leaders assess customer needs and business objectives with their teams to understand what services customers want that are not yet offered. When leadership is aligned on a new initiative, a product moves forward in the development process.
+Research
+
+Product managers conduct extensive market research to gain insight on what products the customers are excited about and engaging with, as well as what features competitors are developing. This research includes competitor performance and customer data analysis, including retention rates and product adoption and consideration of organizational resources.
+
+A firm understanding of the market enables product teams to achieve product market-fit, or building a product that fills a market gap with the customer in mind. Product managers also take future demands into consideration by building products that both meet a current need and can be sustainably updated as market conditions change. Product managers might also engage focus groups to gain insights into a potential customer base and their preferences.
+Planning
+
+A product roadmap outlines the product vision and the needs, workflows, resources, timelines, priorities and goals related to building a product. A roadmap gives all stakeholders a clear understanding of why the product is needed and what organizational or customer problem it solves. This roadmap might list customer values determined during research and set milestones and target release dates.
+
+Roadmaps also help project managers keep teams on schedule and create the workflows for product development. Clear product planning helps teams avoid roadblocks and bottlenecks and sets expectations for delivery that can be easily referenced.
+Prototype
+
+An early step in development includes building a minimum viable product (MVP), or a version of the product with just the basic features needed to function. The minimum viable product can be a way for organizations to test a product and receive early feedback or understand if a product is viable in the market.
+Sourcing and manufacturing
+
+During this step, the resources are gathered for the actual development of the full product. For physical manufacturing, product managers establish supply chains and make sure that materials can be sourced for production. For software, applications or digital products, product managers work continuously with developers and engineers on various iterations of a product.
+Pricing
+
+Teams set a pricing model for the product based on the costs incurred during production, the value the organization thinks the product provides, market demand, competitor pricing and other factors.
+Commercialization
+
+Also known as the product launch, commercialization makes a product available to a customer base. Product managers and product marketing managers work to package the product in a way that effectively communicates its features and use cases. Sometimes, organizations use a beta launch, which is a product release to a limited group of users. This beta test enables teams to observe the product in action and address issues experienced by actual users before the product is released to the public. After a product is launched, product managers continue to gather user feedback to incorporate into updates.
+
+While launching a product might appear to be the final step, product managers not only develop new products, but they also look for ways to optimize existing ones. Once products are launched, product managers monitor user data such as retention rates and product adoption to understand if a product is meeting user needs and how it can be improved. They also gain insights through surveys and intake forms to understand real-world customer experience. User data and insights are brought back to development teams tasked with making patches and updates that address user concerns.
+
+Product management teams prioritize feedback loops throughout every step of the development process. Decision-making is influenced by data and experience gained from each iteration of a product.
+Testing
+
+Testing is often not a single step but a continuous process that informs every aspect of development. In physical manufacturing, testing might be performed once a product is completed. In software development, testing is often incorporated throughout the entire process. Often testing can be automated.
+
+For instance, in a DevOps methodology that uses continuous integration and continuous delivery, code is continuously and automatically tested as it is written and integrated into the code base. This helps make sure that all new code is sufficiently tested and that any issues are remediated as quickly as possible.
+
+Testing helps provide insight into where users might encounter problems with a product and ideally, helps developers and product teams fix issues before the user encounters them.
+Product management vs. project management
+
+Product managers work closely with project managers during the product development process. Product managers set the initiatives that an organization undertakes to develop new products and optimize existing ones. However, product managers do not break down and assign specific tasks or allocate resources toward the development of a project, that is the role of a project manager.
+
+A project manager takes the roadmap created by the product manager and makes sure that each project has the personnel, resources and support to complete the project. Project managers set and monitor deadlines and team output to make sure that product delivery is on schedule. Project managers can help product managers communicate information on changing goals or priorities so that all team members are in alignment.
+Product management roles
+
+Product management requires a varied skillset, generally one that combines technical expertise with business marketing and user experience knowledge. Depending on an organization’s size, style and scope of work, product management responsibilities might be filled by a single employee or might be split between multiple employees.
+
+Roles related to product management and product management teams include:
+
+Chief product officer (CPO)
+Product manager
+Product owner
+Product marketing manager
+Growth product manager
+Technical product manager
+The responsibilities of these roles occasionally overlap or might be condensed based on organizational structure.
+Chief product officer (CPO)
+
+This executive position requires strategic thinking and planning and leads the product development department at an enterprise level. The CPO helps set the overall vision and strategy for an enterprise’s product development with the goal of creating customer-centric products that drive business growth.
+
+CPOs oversee the innovation of new products and the optimization of existing ones. They manage product managers, product owners, product marketing managers, user experience (UX) designers and analysts. CPOs focus on product success in the short term, but are also tasked with understanding how markets might evolve and how a product can be optimized to remain competitive in the future.
+Product manager
+
+Product managers understand business and market needs, identify challenges, issues or gaps in service and lead the development of products that solve them. In larger organizations, this role is largely managerial and involves connecting various teams to develop products and features that take all business objectives into account.
+
+On smaller teams, product managers are often involved in more of the technical work that goes into building products. To be effective, a product manager needs to understand the technical aspects of developing a product and have a strong business sense. Product managers often must balance conflicting priorities within an organization and find solutions that satisfy various needs.
+Product owner 
+
+A product owner manages and optimizes the engineering team’s product backlog, making sure that development is on schedule. Product owners frequently work in scrum frameworks but exist in teams outside of this framework as well.
+
+Scrum is an agile model that breaks down larger projects into smaller “sprints” allowing teams to work more quickly and make changes more easily. Product owners help facilitate communication between business teams and technical teams, championing product features that drive business value. Product owners are actively involved in the day-to-day development of a product.
+Product marketing manager (PMM)
+
+PMMs are responsible for product positioning, messaging and branding. Through marketing campaigns, PMMs communicate the products’ value—they create the messaging that drives customers to engage with and adopt new and existing products. This includes creating digital and social media marketing content, delivering presentations at conferences and helping develop sales pitches.
+
+PMMs are marketers who also have technical knowledge of the products they are promoting. Using this knowledge along with market research and customer data, PMMs develop marketing strategies that drive sales growth. They also help gather the customer feedback that is used to improve products and release updates. PMMs work alongside business teams to plan product launches, by using market research to understand the best time to bring a product into the market.
+
+Relationship building is an important part of a PMM’s role. During product development, a PMM might seek out opportunities for collaboration with external companies and explore other opportunities to promote the product.
+
+When a product is launched, PMMs often lead communication with media and enterprise contacts to communicate the product’s value proposition. They are instrumental in creating the public-facing message increases product awareness and helps sales teams sell the product to potential clients.
+Growth product manager
+
+Growth product managers are product management specialists who focus on improving specific product metrics that drive profitability and business growth. This can include increasing product adoption, retention, revenue or reducing spend. Growth product managers actively seek growth opportunities—for example, through new features or acquisitions—run A/B tests to experiment with new features, analyze metrics such as churn rates along with user feedback to pinpoint areas for improvement and analyze pricing to understand how a product competes in the market. 
+Technical product manager
+
+Technical product managers make sure that the technical elements of a product are efficiently defined and implemented. Technical product managers help gather the exact requirements needed to complete the development of the project, known as requirements gathering. They can provide a technical assessment of an enterprise’s existing resources and detail what can be accomplished with those resources. Technical product managers also review the interoperability of new products with existing enterprise software. These specialists often have a background in development and engineering. They work closely with developers, designers, engineers and programmers on the back end of product development.
+
+Technical product managers are often involved in the provisioning of resources as well as the testing and performance monitoring of existing products. They assist with the release of updates and patches that resolve issues identified through testing or customer feedback. Technical product managers might also oversee storage and bandwidth requirements,
+cloud migrations and the establishing of security and compliance protocols.
+What is agile product management?
+
+Agile product management is a model that breaks the product development process into smaller “sprints” allowing teams to work with more flexibility and incorporate feedback throughout the process. Agile product management focuses on creating several iterations of a product with each iteration refining or adding features based on testing and feedback from different departments. By working on smaller sections during development, teams can more easily adjust a product based on user feedback, changing market conditions or new business objectives.
+
+The agile product management process assumes that changing conditions are an inevitability and implements a model that gives development teams the ability to address those changes quickly and sustainably.  

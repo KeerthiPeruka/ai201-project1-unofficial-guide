@@ -1,0 +1,26 @@
+What is UX design?
+
+User experience (UX) design is the process of designing a good user experience by making, creating, and organizing the interfaces people interact with daily, like mobile apps, websites, smart watches, and physical products.
+
+What is a UX designer?
+
+UX designers focus on the experience that people have while using products like websites, apps, and physical objects. UX designers make those everyday interactions more useful, usable, and accessible to users. The role of an entry-level UX designer might include coming up with ideas to address user problems, conducting research with users, and designing wireframes, mockups, and prototypes.
+
+What is the difference between UX and UI ?
+
+UX (user experience) design is the process of designing a good user experience by making, creating, and organizing the interfaces people interact with, including websites, apps, and products. UI (user interface) design focuses on the graphical interface that users interact with and how it works and responds to users, including navigational elements such as menus, buttons, and icons.
+
+What are some important skills for UX designers?
+
+A UX designer learns skills to make user interactions with websites, mobile apps, and physical products more usable, equitable, enjoyable, and useful. UX design skills include the ability to…
+Empathize with users to understand their needs and pain points
+Create empathy maps, personas, user stories, and user journey maps to understand user needs
+Develop problem statements to define user needs
+Generate ideas for possible solutions to user problems
+Build wireframes and prototypes
+Conduct UX research
+Create designs and prototypes
+
+Why start a career in UX design?
+As the digital world continues to expand, companies are recognizing that good user experience is a necessity, which has led to UX design being a dynamic, high-paying field across many industries. UX designers spend their time making, creating, and organizing the interfaces people interact with daily, like mobile apps, websites, smart watches, and physical products. Their work ensures that these interfaces are easier and more enjoyable to use.
+
