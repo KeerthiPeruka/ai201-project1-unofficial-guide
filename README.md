@@ -101,7 +101,7 @@ This system covers technology careers, including software engineering, data scie
 - Creating algorithms and data models to forecast outcomes 
 - Using machine learning techniques to improve the quality of data or product offerings. 
 
-Additionally, as mentioned in data_science.txt Chunk 6, data scientists identify the questions their teams should ask and figure out how to answer them with data, and develop predictive models and algorithms to theorize and forecast outcomes. | Retrieval quality is good as it identified important chunks of information| Reponse it accurate as it relates to the field. |
+Additionally, as mentioned in data_science.txt Chunk 6, data scientists identify the questions their teams should ask and figure out how to answer them with data, and develop predictive models and algorithms to theorize and forecast outcomes.| Retrieval quality is good as it identified important chunks of information| Reponse it accurate as it relates to the field. |
 
 | 3 | What skills are needed to become an AI engineer?| Programming, statistics, machine learning, big data technologies, and AI frameworks such as TensorFlow and PyTorch.| According to ai_engineer.txt  Chunk 10 and ai_engineer.txt Chunk 9, to become an AI engineer, you need basic computer, information technology (IT), and math skills. Additionally, ai_engineer.txt  Chunk 10 states that you'll need to build your technical skills, including knowledge of programming languages such as Python, R, Java, and C++. ai_engineer.txt Chunk 1 also mentions learning technical skills like programming and statistics. | Retrieval is good because it captures the chunks with correct information | Response is also good as uses the main source for its information|
 
